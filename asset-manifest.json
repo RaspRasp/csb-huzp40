@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rasprasp.github.io/csb-huzp40/static/css/main.4440e346.chunk.css",
+    "main.js": "https://rasprasp.github.io/csb-huzp40/static/js/main.8bca0cc7.chunk.js",
+    "main.js.map": "https://rasprasp.github.io/csb-huzp40/static/js/main.8bca0cc7.chunk.js.map",
+    "runtime-main.js": "https://rasprasp.github.io/csb-huzp40/static/js/runtime-main.cc02a141.js",
+    "runtime-main.js.map": "https://rasprasp.github.io/csb-huzp40/static/js/runtime-main.cc02a141.js.map",
+    "static/js/2.4ff73c36.chunk.js": "https://rasprasp.github.io/csb-huzp40/static/js/2.4ff73c36.chunk.js",
+    "static/js/2.4ff73c36.chunk.js.map": "https://rasprasp.github.io/csb-huzp40/static/js/2.4ff73c36.chunk.js.map",
+    "index.html": "https://rasprasp.github.io/csb-huzp40/index.html",
+    "static/css/main.4440e346.chunk.css.map": "https://rasprasp.github.io/csb-huzp40/static/css/main.4440e346.chunk.css.map",
+    "static/js/2.4ff73c36.chunk.js.LICENSE.txt": "https://rasprasp.github.io/csb-huzp40/static/js/2.4ff73c36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc02a141.js",
+    "static/js/2.4ff73c36.chunk.js",
+    "static/css/main.4440e346.chunk.css",
+    "static/js/main.8bca0cc7.chunk.js"
+  ]
+}
